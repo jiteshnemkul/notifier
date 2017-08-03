@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotifierTryOne</string>
+    <string name="facebook_app_id">260212931049519</string>
+    <string name="fb_login_protocol_scheme">fb260212931049519</string>
+</resources>
